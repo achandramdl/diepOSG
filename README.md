@@ -1,8 +1,8 @@
 <br><br>
 <div align="center">
 <img src="./icon.png" width="20%" />
-<h3> diep custom </h3>
-<p> An open source diep.io custom private-server template </p>
+<h3> diepOSG</h3>
+<p> Modification from an open source diep.io custom private-server template (OSG Team Version) </p>
 </div>
 <br>
 
